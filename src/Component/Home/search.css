@@ -1,0 +1,55 @@
+#search{
+    height:500px;
+    width:100%;
+    background-image: url('https://i.ibb.co/y0D6Hhs/img.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 500px;
+    position: relative;
+
+}
+
+#logo{
+    height:150px;
+    width:150px;
+    background-color: #fffffea3;
+    border-radius:50%;
+    margin-left:43%;
+    margin-top: 5%;
+    position:absolute;
+}
+
+#logo>span{
+    margin-left:25%;
+    margin-top: 13%;
+    position:absolute;
+    font-size:80px;
+    color:#015365f7;
+}
+
+#heading{
+    margin-left:25%;
+    margin-top: 17%;
+    position:absolute;
+    font-size:50px;
+    color:#015365f7;
+}
+
+.dropdown{
+    height:50px;
+    width:60%;
+    margin-left:22%;
+    margin-top:24%;
+    position:absolute;
+}
+
+select{
+    height:50px;
+    width:40%;
+    font-size:20px;
+    text-align:center;
+    border-radius: 20px;
+}
+
+.restSelect{
+    width:55%;
+}

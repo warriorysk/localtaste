@@ -1,0 +1,29 @@
+a{
+    text-decoration:none
+}
+/*footer CSS*/
+#header{
+    height:60px;
+    background-color:rgb(173 203 209);
+}
+
+#icon{
+    float: left;
+    margin-left:1%;
+    margin-top:0%
+}
+#hlogo{
+    height:65px;
+    width:65px;
+}
+
+#social{
+    float: right; 
+    margin-right: 4%;
+    margin-top: 1%;
+}
+
+.slogo{
+    height:50px;
+    width:50px;
+}

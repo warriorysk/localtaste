@@ -1,0 +1,14 @@
+.orderItems{
+    float:left;
+    height:300px;
+    width:250px;
+    margin:2%;
+    box-shadow:30px 1px 30px gray;
+    border-radius:20px;
+}
+
+.orderItems>img{
+   height:180px;
+   width:100%;
+   border-radius: 20px;
+}
